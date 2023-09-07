@@ -25,6 +25,7 @@ body{
     color: #f9faf8;
     font-size: 24px;
     font-weight: bold;
+    flex-shrink: 0;
 
 }
 
@@ -73,6 +74,7 @@ a {
     max-height: 300px;
     align-items: stretch; */
     min-height: 300px;
+    max-width: 600px;
     
     
 }
